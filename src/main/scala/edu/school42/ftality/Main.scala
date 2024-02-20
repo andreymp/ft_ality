@@ -1,3 +1,5 @@
+package edu.school42.ftality
+
 import edu.school42.ftality.training.startTraining
 import edu.school42.ftality.utility.printMachineMemory
 import edu.school42.ftality.parsing.parse
