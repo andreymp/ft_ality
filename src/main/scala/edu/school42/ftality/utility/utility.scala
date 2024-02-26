@@ -12,9 +12,3 @@ def printMachineMemory(machineMemory: (Map[Char, String], Map[List[Char], String
     if combination.isEmpty then combination + hook else combination + " -> " + hook} + " --> " + action)
   }
 }
-
-def printParsingErrorMessage(source: Source): (Map[Char, String], Map[List[Char], String]) = {
-  println("error during grammar file parsing")
-  source.close()
-  sys.exit(1)
-}

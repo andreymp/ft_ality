@@ -1,0 +1,11 @@
+w=>Up
+s=>Down
+a=>Left
+d=>Right
+h=>Hook
+c=>Seat
+f=>Bite
+w-h-h-fin=>Hook_up
+c-a-h-fin=>Secret_combo_1
+f-f-fin=>Eat_them_all
+w-s-a-d-h-c-f-fin=>All
